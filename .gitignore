@@ -1,6 +1,11 @@
+.env
+.DS_Store
 /vendor
 /node_modules
 /public/storage
+/bower_components
+/node_modules
 Homestead.yaml
 Homestead.json
-.env
+Thumbs.db
+npm-debug.log
